@@ -2,7 +2,6 @@
 
 
 *  🔭 I’m currently studying at [université de Lille](https://www.univ-lille.fr)
-*  🌱 I’m currently learning **Data management systems**
 *  📫 How to reach me: **arnay07@gmail.com**
 *  😄 Pronouns: he/him
 *  ⚡ Fun fact: Up to 60% of the human adult body is water.      
